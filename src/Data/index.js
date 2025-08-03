@@ -35,10 +35,11 @@ export const skillCards = [
       'Full-stack development involves building complete web applications by handling both the front-end and back-end seamlessly. I specialize in creating robust server-side logic with Node.js and Express, managing databases with MongoDB or SQL, and crafting intuitive user interfaces using React. My approach emphasizes scalable architecture, security, and smooth user experiences, ensuring applications perform efficiently and reliably across all platforms'
 
 ,
-    projectCount: 2,
+    projectCount: 3,
     link:[
       'https://notes-fullstack-mu.vercel.app',
       'https://recipe-maker-gamma.vercel.app',
+      'https://nextjs-fullstack-ebon-three.vercel.app/'
     
     ],
 
